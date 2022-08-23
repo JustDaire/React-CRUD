@@ -1,3 +1,3 @@
-# react-mqpbc1
+# React CRUD
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-mqpbc1)
+Simple interface to create, read, update and delete user entries
